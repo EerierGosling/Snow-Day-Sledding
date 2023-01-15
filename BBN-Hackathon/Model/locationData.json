@@ -1,0 +1,79 @@
+[
+  {
+    id: 1,
+    name: "Kingsley Park",
+    city: "Cambridge",
+    state: "MA",
+    xp: 20,
+    gotXP: false,
+    isFavorite: false,
+    category: "Sledding",
+    coordinates: {longitude: 42.381852,latitude: -71.145831}
+  },
+  {
+    id: 2,
+    name: "Franklin Elementary School",
+    city: "Newton",
+    state: "MA",
+    xp: 20,
+    gotXP: false,
+    isFavorite: false,
+    category: "Sledding",
+    coordinates: {longitude: 40.5865,latitude: -80.0965}
+  },
+  {
+    id: 3,
+    name: "Pats Peak",
+    city: "Henniker",
+    state: "NH",
+    xp: 50,
+    gotXP: false,
+    isFavorite: false,
+    category: "Skiing",
+    coordinates: {longitude: 43.1640,latitude: -71.7977}
+  },
+  {
+    id: 4,
+    name: "Loon",
+    city: "Lincoln",
+    state: "NH",
+    xp: 50,
+    gotXP: false,
+    isFavorite: false,
+    category: "Skiing",
+    coordinates: {longitude: 44.0350,latitude: -71.6197}
+  },
+  {
+    id: 5,
+    name: "Frog Pond",
+    city: "Boston Common",
+    state: "MA",
+    xp: 40,
+    gotXP: false,
+    isFavorite: false,
+    category: "Skating",
+    coordinates: {longitude: 42.3561, latitude: 71.0658}
+  },
+  {
+    id: 6,
+    name: "BBN Ice Rink",
+    city: "Cambridge",
+    state: "MA",
+    xp: 50,
+    gotXP: false,
+    isFavorite: false,
+    category: "Skating",
+    coordinates: {longitude: 42.373057895650646, latitude: -71.13565617468021}
+  },
+  {
+    id: 7,
+    name: "Winter Pond",
+    city: "Winchester",
+    state: "MA",
+    xp: 30,
+    gotXP: false,
+    isFavorite: false,
+    category: "Skating",
+    coordinates: {longitude: 42.45615,latitude: -71.15337}
+  }
+]
