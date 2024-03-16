@@ -1,4 +1,4 @@
-# Sledding, Skating, and Skiing
+# Snow Day Sledding
 
 We're answering prompt 2, "How do we stay occupied during a snow day?"
 We built an app that lets you see all the sledding, skating, and skiing areas near you!
